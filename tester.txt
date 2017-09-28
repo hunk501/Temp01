@@ -1,4 +1,4 @@
 allow = true
-mode = demo
+mode = ok
 status = 1
 date = 2017-09-20
